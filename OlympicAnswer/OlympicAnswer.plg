@@ -7,19 +7,19 @@
 </h3>
 <h3>Command Lines</h3>
 Creating command line "rc.exe /l 0x804 /fo"Release/OlympicAnswer.res" /d "NDEBUG" /d "_AFXDLL" "G:\oly\OlympicAnswer\OlympicAnswer.rc"" 
-Creating temporary file "C:\Users\HEDY\AppData\Local\Temp\RSPB3C.tmp" with contents
+Creating temporary file "C:\Users\HEDY\AppData\Local\Temp\RSP48E8.tmp" with contents
 [
 /nologo /MD /W3 /GX /O2 /D "WIN32" /D "NDEBUG" /D "_WINDOWS" /D "_AFXDLL" /D "_MBCS" /Fp"Release/OlympicAnswer.pch" /Yu"stdafx.h" /Fo"Release/" /Fd"Release/" /FD /c 
 "G:\oly\OlympicAnswer\OlympicAnswer.cpp"
 "G:\oly\OlympicAnswer\OlympicAnswerDlg.cpp"
 ]
-Creating command line "cl.exe @C:\Users\HEDY\AppData\Local\Temp\RSPB3C.tmp" 
-Creating temporary file "C:\Users\HEDY\AppData\Local\Temp\RSPB3D.tmp" with contents
+Creating command line "cl.exe @C:\Users\HEDY\AppData\Local\Temp\RSP48E8.tmp" 
+Creating temporary file "C:\Users\HEDY\AppData\Local\Temp\RSP48E9.tmp" with contents
 [
 /nologo /MD /W3 /GX /O2 /D "WIN32" /D "NDEBUG" /D "_WINDOWS" /D "_AFXDLL" /D "_MBCS" /Fp"Release/OlympicAnswer.pch" /Yc"stdafx.h" /Fo"Release/" /Fd"Release/" /FD /c 
 "G:\oly\OlympicAnswer\StdAfx.cpp"
 ]
-Creating command line "cl.exe @C:\Users\HEDY\AppData\Local\Temp\RSPB3D.tmp" 
+Creating command line "cl.exe @C:\Users\HEDY\AppData\Local\Temp\RSP48E9.tmp" 
 Creating command line "link.exe /nologo /subsystem:windows /incremental:no /pdb:"Release/OlympicAnswer.pdb" /machine:I386 /out:"Release/OlympicAnswer.exe"  .\Release\OlympicAnswer.obj .\Release\OlympicAnswerDlg.obj .\Release\StdAfx.obj .\Release\OlympicAnswer.res "
 <h3>Output Window</h3>
 Compiling resources...

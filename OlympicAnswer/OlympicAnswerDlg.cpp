@@ -243,6 +243,8 @@ void COlympicAnswerDlg::OnButOk()
     sort(ss,ss+j,cmp);
 	CString temp;
 	CString m_outputdatadata="";
+	
+
 
     for(i=0;i<j;i++)
     {
